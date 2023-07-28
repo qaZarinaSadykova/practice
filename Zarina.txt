@@ -1,0 +1,11 @@
+ID DOG-3
+Sammary: арфография в слове "Популярное"
+Pre-conditions Тестировщик:Ашрапова Зарина
+ОС: Mac os 13.3.1 (a) (22E772610a)
+Браузер: Chrome:Version 114.0.5735.198 (Official Build) (arm64)
+Перейти на главную страницу https://guru.qahacking.ru/
+
+Steps Перейти в раздел " "Блог Джесси""
+
+Expected result
+Должно быть " Популярное"
