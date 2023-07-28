@@ -1,0 +1,7 @@
+ID DOG-1
+Summary Подписаться на сайт https://guru.qahacking.ru/
+Pre-condition 
+открыть сайт guru.qahacking.ru
+Steps:
+1. Перейти в футер сайта                                                       Expected result Отображаеться картинка
+2. Вводим почту под ссылкой "Подпишитесь на рассылку лучших фотографий"        Expected result Кликаем на кнопку подписаться

@@ -1,0 +1,5 @@
+ID - IC1
+Summary - [Хедер] Редирект на раздел "советы по уходу.."
+Preconditions - Открыть сайт "https://guru.qahacking.ru/"
+Steps - кликнуть на раздел "СОВЕТЫ"
+Expected result - отображается страница "советы по уходу"
