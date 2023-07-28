@@ -1,0 +1,5 @@
+ID: TP-9
+SUMMARY: Make sure that there is a transition to another block when clicked
+PRE-CONDITION: Open web-site https://guru.qahacking.ru/
+STEPS: 1) click on jesse's blog section header
+EXPECTED RESULT: information about jessie is displayed

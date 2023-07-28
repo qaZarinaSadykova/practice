@@ -1,0 +1,21 @@
+ID: https://app.qase.io/case/QA-13
+
+Summary: Отправка вопроса о собачках
+
+Preconditions: Отправление вопроса
+
+Steps:
+
+1. Зайти в сайт
+
+Input data
+https://guru.qahacking.ru/
+
+2. Перейти в футер
+
+3. Заполнить форме отправки вопроса
+
+4. Нажимать на кнопку Send
+
+Expected result
+Вопрос отправляется почте сайт собаседника
